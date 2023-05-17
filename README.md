@@ -67,4 +67,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Razorpay Integration with NodeJS](https://daniram.hashnode.dev/razorpay-integration-with-nodejs)
 <!-- BLOG-POST-LIST:END -->
