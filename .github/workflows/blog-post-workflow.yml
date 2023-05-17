@@ -17,4 +17,4 @@ jobs:
       - name: Pull in Hashnode posts
         uses: dani24sahu/blog-post-workflow@v1
         with:
-          feed_list: "https://@dani24.hashnode.dev/rss.xml"          
+          feed_list: "https://@daniram.hashnode.dev/rss.xml"          
