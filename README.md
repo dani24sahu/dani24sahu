@@ -67,5 +67,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Closures 101: A Beginner’s Guide to Closures in JavaScript](https://daniram.hashnode.dev/closures-101-a-beginners-guide-to-closures-in-javascript)
 - [Razorpay Integration with NodeJS](https://daniram.hashnode.dev/razorpay-integration-with-nodejs)
 <!-- BLOG-POST-LIST:END -->
